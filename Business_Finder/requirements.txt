@@ -1,5 +1,0 @@
-streamlit
-folium
-streamlit-folium
-googlemaps
-python-dotenv
