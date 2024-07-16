@@ -51,21 +51,6 @@ Business Finder is a Streamlit application that helps users find businesses in a
 
 ## Project Structure
 
-business-finder/
-├── components/
-│ ├── filters.py
-│ ├── map.py
-│ ├── results.py
-│ └── search.py
-├── utils/
-│ └── google_maps.py
-├── app.py
-├── requirements.txt
-└── README.md
-
-markdown
-Copy code
-
 - **components/**: Contains the components used in the application (filters, map, results, search).
 - **utils/**: Contains utility scripts (Google Maps client).
 - **app.py**: Main application script.
