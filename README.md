@@ -49,6 +49,12 @@ Business Finder is a Streamlit application that helps users find businesses in a
 
 2. Open your web browser and navigate to `http://localhost:8501` to access the application.
 
+3. Use the Circle or Rectangle icon on the map to select the area you want to search :
+
+   ![image](https://github.com/user-attachments/assets/f746e0d8-eb73-4830-ab48-b667fe7b6e12)
+
+
+
 ## Project Structure
 
 - **components/**: Contains the components used in the application (filters, map, results, search).
